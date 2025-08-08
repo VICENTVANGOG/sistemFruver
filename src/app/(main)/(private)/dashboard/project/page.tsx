@@ -4,7 +4,7 @@ import type { SectionType } from "@/types"
 import { MainMenuPage } from "@/components/pages/MainMenuPage"
 import SalesPage from "@/app/(main)/(private)/dashboard/sales/page"; // Importación nombrada
 import ClientsPage from "@/app/(main)/(private)/dashboard/clients/page"
-import { ComprasPage } from "@/components/pages/ComprasPage"
+import  {ComprasPage}  from "@/components/pages/ComprasPage"
 import InventoryPage from "../inventari/page";
 
 export default function StoreDashboard() {
